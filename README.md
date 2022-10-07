@@ -1,5 +1,10 @@
 # SpringBoot+Layui后台管理系统
+基于Radom7同名项目修改。
+
+
+
 ## 后端：
+
 SpringBoot  2.1.0  
 tk.mybatis  2.0.2  
 Shiro  1.3.1  
